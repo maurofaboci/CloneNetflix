@@ -9,6 +9,13 @@
         width: 300px;
     }
 
+    .containerfooter {
+
+        display: flex;
+        flex-direction: column;
+        margin-top: 10px;
+ }
+
 
 }
 
@@ -23,3 +30,4 @@
         height: 500px;
     }
 }
+
